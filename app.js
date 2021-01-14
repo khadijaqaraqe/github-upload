@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 
 const postsRoutes = require("./routes/posts");
 const userRoutes = require("./routes/user");
-const env = require("../nodemon.json")
+
 
 const app = express();
 
